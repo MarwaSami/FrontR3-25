@@ -1,0 +1,17 @@
+https://github.com/aya1062
+https://github.com/asmaaabubakr905
+https://github.com/Mohammedabdalla66
+
+//***//
+
+git init  => create local repo 
+
+git add . => track file and save in stage area (crtls while file open)
+
+git commit -m "version desciptio" =>
+
+git status => 
+
+git log 
+
+/// 
